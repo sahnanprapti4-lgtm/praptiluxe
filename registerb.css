@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main
+{
+    border: none;
+    width: 500px;
+    /* height: 520px; */
+    margin: auto;
+    padding: 50px ;
+    background-color: #FFE4C4;
+}
+.input
+{
+    padding: 15px;
+    width: 100%;
+    background-color: white;
+    
+}
+@media(max-width:767px)
+{
+    main {
+      margin: 0 !important;
+        width:320px !important;
+        height: 530px;
+    }
+    .input{
+width: 60%;
+    };
+}
+span{
+    background-color: bisque;
+}
+.gender{
+    background-color: #F0F5F7;
+}
+.link{
+    display: inline;
+}
+.dropdown{
+    background-color: #F0F5F7; 
+}

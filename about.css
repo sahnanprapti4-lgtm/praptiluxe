@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backimg
+{
+    background-image: url("images/surprised-attractive-lady-elegant-dress_23-2148054830.jpg");
+   background-repeat: no-repeat;
+    background-size:cover;
+ height: 700px;
+  
+}
+.text
+{
+    width: 400px;
+}
+.aboutbtn
+{
+    width: 100px;
+}
+@media(max-width:767px)
+{
+    main
+   {
+
+    background-image: url("images/media.PNG");
+   }
+}

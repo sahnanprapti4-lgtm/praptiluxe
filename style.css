@@ -1,0 +1,134 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 80px;
+}
+.collection{
+    height: 500px;
+   
+}
+.women{
+background: url("images/young-woman-beautiful-dress.jpg");
+background-size: cover;
+}
+.men{
+    background: url("images/men.jpg");
+background-size: cover;
+}
+.baby{
+    background: url("images/babyshop2-home-pic2.webp");
+background-size: cover;
+}
+.btn{
+    display: block;
+}
+.sidebar
+{
+    height: 500px;
+    background: url(images/lehenga.jpg);
+    background-size: cover;
+}
+.info-women,.info-men,.info-kids{
+    width: 400px;
+}
+.winterpic
+{
+    background-image: url("images/winter.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.autumnpic
+{
+    background-image: url("images/autumn.PNG");
+    height: 100px;
+}
+.summerpic
+{
+    background-image: url("images/summer.PNG");
+    height: 100px;
+}
+.category-card-1,.category-card-2,.category-card-3{
+ width: 425px !important;
+}
+
+.category-card-1{
+    background-color: #B0B1A9;
+}
+.category-card-2{
+    background-color: #E7B793;
+}
+.category-card-3{
+    background-color: #EDA849;
+}
+@media(max-width:512px){
+    .category-card-1,.category-card-2,.category-card-3{
+        width: 400px !important;
+       }
+     
+
+}
+.c11
+{
+    background-image: url(images/indexc11.PNG);
+    background-repeat: no-repeat;
+background-size: cover;
+height: 350px;
+width: 630px;
+}
+.c12
+{
+    background-image: url(images/indexc12.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 630px;
+}
+.c21
+{
+    background-image: url(images/indexc21.PNG);
+    background-repeat: no-repeat;
+background-size: cover;
+height: 350px;
+width: 630px;
+}
+.c22
+{
+    background-image: url(images/indexc22.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 630px;
+}
+.bg
+{
+    background-color: #d1f1ff;
+    margin-top: -18px;
+}
+.block
+{
+    display: block;
+}
+.c1
+{
+    background-color:#97D5EE ;
+}
+.autcard
+{
+    background-color: #F6DCB9;
+}
+.year{
+margin-left: -20px
+}
+@media(max-width:576px)
+{
+.custom-img
+{
+    max-width: 80%;
+    height: 70%;
+}    
+}
+
